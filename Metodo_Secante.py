@@ -38,4 +38,3 @@ print('Erro = ', erro)
 
 duracao = (end - start)
 print ("O tempo de execução foi de: {} segundos".format(duracao))
-
